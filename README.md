@@ -14,7 +14,7 @@ Jarvis is a flexible voice-controlled AI assistant that serves as both a standal
 
 ## Getting Started
 
-1. Download the latest [JarvisInstaller.exe](link-to-release)
+1. Download the latest [JarvisInstaller.exe](https://github.com/keplarrr/Jarvis/releases/download/Jarvis_0.2/JarvisInstaller.zip)
 2. Run the installer and follow the prompts
 3. Launch Jarvis and start building
 
